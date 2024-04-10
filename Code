@@ -33,14 +33,28 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>BILLA RAHUL</h1>
         <p>Web Developer</p>
     </header>
 
     <section>
-        <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <h2>ABOUT ME</h2>
+        <p>Iam B.Rahul From Malla Reddy Enginnering College of IT 3rd year.</p>
+	<p>Iam Currently seeking to pursue a highly rewrding career and also to get into a creative and challenging position and also to contribute for the growth of the organization with my technical,innovative nd logical skills..</p> 
     </section>
 
     <section>
-        <h2>Projects</h2>
+        <h2>ACTIVITIES</h2>
+	<p>Coordinated a inter and intra college fest "AKSHARA" at our college(Malla reddy engineering college)</p>
+	<p>Participated in Smart India Hackathon </p>
+	<p>Participated in Kavach Hackathon</p>
+ 
+   </section>
+   <section>
+	<h2>PERSONAL DOSSIER</h2>
+	<p>Date Of Birth : 25-07-2004 </p>
+	<p>Linguistic Abilities : Telugu, Hindi & English</p>
+	<p>Address :Maisammaguda, Hyderabad </p>
+   </section>
+ </body>
+</html>	
